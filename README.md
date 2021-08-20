@@ -4,7 +4,7 @@
 
 </h1>
 
-# Zeek-Intelligence-File-Names
+# Zeek-Formatted Ransomware File Name Extensions
 
 This is a public feed based on Public Threat Feeds and CRITICAL PATH SECURITY gathered data.
 This feed will be updated as often as possible.
