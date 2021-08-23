@@ -314,6 +314,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Armage
 *.Arsium
 *.Artemis
+*.AstraLocker
 *.Ataware
 *.Atchbo
 *.Athena865
@@ -1148,6 +1149,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.OOFNIK
 *.OOOKJYHCTVDF
 *.OQn1B
+*.ORKF
 *.OTR
 *.OVO
 *.OXR
@@ -3006,6 +3008,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.micro
 *.middleman2020
 *.midwestsurinc
+*.mihq
 *.miis
 *.mijnal
 *.mike
