@@ -214,6 +214,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.6FKR8d
 *.6be31
 *.6db8
+*.6ix9
 *.707
 *.725
 *.726
@@ -812,6 +813,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.HORSEMONEY
 *.HPE iLO
 *.HPJ
+*.HQ_52_42
 *.HR
 *.HRM
 *.HUSTONWEHAVEAPROBLEM@KEEMAIL.ME
@@ -863,6 +865,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.IQ_IQ
 *.ITLOCK
 *.ITTZN
+*.IWAN
 *.IWANT
 *.Id-*.\[filerestory@gmail.com\].Crypto
 *.Id-*.secure
@@ -975,6 +978,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.LOTUS
 *.LOVE
 *.LOWPRICE
+*.LQQW
 *.LSOBKMHG
 *.LTC
 *.LTML
@@ -1019,6 +1023,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Lulz!
 *.M0rphine
 *.MAFIA
+*.MALWAREDEVELOPER
 *.MANSORY
 *.MATRIX
 *.MAYA
@@ -1180,6 +1185,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PEDANT
 *.PEDO
 *.PEGS1
+*.PERDAK
 *.PERSONAL_ID*
 *.PGPSnippet
 *.PHOBOS
@@ -1294,6 +1300,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.RSNSlocked
 *.RSplited
 *.RYK!
+*.RZA
 *.RaRansomware
 *.RaaS
 *.RabbitFox
@@ -1440,6 +1447,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.T1Happy
 *.TABGH
 *.TAKA
+*.TCYO
 *.TELEGRAM
 *.TEREN
 *.TEST
@@ -1659,6 +1667,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.\[Enigma1crypt@aol.com\].ETH
 *.\[File-Help@India.Com\].mails
 *.\[Filesreturn247@gmx.de\].lock
+*.\[GOFMEN17@YA.RU\]
 *.\[GOFMEN17@YA.RU\],CRP
 *.\[GuardBTC@cock.li\].java
 *.\[Hardcorr@protonmail.com\].java
@@ -1794,6 +1803,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *._AiraCropEncrypted!
 *._Crypted
 *._HE
+*._HE._LP
 *._HE._LP,
 *._NEMTY*
 *._NEMTY_BTKid9H_
@@ -2026,6 +2036,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bvjznsjlo
 *.bwall
 *.c0hen
+*.c0v
 *.c300
 *.cRh8
 *.cadq
@@ -2075,6 +2086,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cizer
 *.ckey(RandomID).email(data1992@protonmail.com).pack14
 *.ckey(oK5WFfTq).email(data1992@protonmail.com).pack14
+*.clay
 *.clean
 *.clf
 *.clinTON
@@ -2095,6 +2107,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.code
 *.coded
 *.coder007@protonmail.com
+*.coderCrypt
 *.codnat
 *.codnat1
 *.codnet
@@ -2318,6 +2331,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.eddldzor
 *.edgel
 *.eduransom
+*.efdc
 *.efji
 *.egmwv
 *.egmwvm
@@ -2561,6 +2575,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hermes837
 *.heronpiston
 *.heroset
+*.herrco
 *.hese
 *.hets
 *.hex911
@@ -2782,6 +2797,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.jzphmsfs
 *.k0stya
 *.kali
+*.karen
 *.karl
 *.karne
 *.kasp
@@ -2801,6 +2817,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.keybtc@inbox_com
 *.kezoz
 *.kgpvwnr
+*.kikiriki
 *.kilit
 *.kill
 *.killedXXX
@@ -2868,6 +2885,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.lcked
 *.lcphr
 *.lcphr!Ransom
+*.lcry
 *.leen
 *.leenapidx
 *.leenapidx@snakebite.com.hrhr
@@ -2911,6 +2929,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.locker
 *.locker16
 *.lockerxxs
+*.lockfile
 *.lockhelp@qq.gate
 *.locklock
 *.lockme
@@ -3214,6 +3233,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.paybtcs
 *.paycoin
 *.paycyka
+*.payfast*
 *.payfordecrypt
 *.payfornature@india.com.crypted
 *.payforunlock
@@ -3446,6 +3466,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sandboxtest
 *.sanders4
 *.sanders4!
+*.sanwai
 *.sapphire
 *.sarbloh
 *.sarut
@@ -3555,6 +3576,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.surprise
 *.sux
 *.sux.AES128
+*.svyx
 *.swagkarna
 *.switch
 *.symbiom_ransomware_locked
@@ -3699,6 +3721,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wctc
 *.wdie
 *.weapologize
+*.wearefriends
 *.weareyourfriends
 *.week
 *.weencedufiles
@@ -3913,6 +3936,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *HERMES
 *How to Decrypt Files-*.html
 *Instraction*
+*LOCKFILE-README.hta
 *RANSOMED*
 *RT4BLOCK
 *ReadMe_Decryptor.txt
