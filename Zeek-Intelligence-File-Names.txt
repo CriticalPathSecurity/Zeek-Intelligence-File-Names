@@ -1290,6 +1290,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.RIDIK
 *.RJZUNA
 *.RMCM1
+*.RME
 *.RNZ
 *.ROGER
 *.RRK
@@ -1901,6 +1902,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.auw2w2g0
 *.avdn
 *.avos
+*.avos2
 *.axx
 *.azero
 *.azor
@@ -1984,6 +1986,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.blocked
 *.bloked
 *.blower
+*.bluez
 *.bmd
 *.bmn63
 *.bmps@tutanota.com.major
@@ -2137,6 +2140,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cov19
 *.coverton
 *.covid
+*.covid-19
 *.covid21
 *.covm
 *.cr020801
@@ -2758,6 +2762,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.iwanttits
 *.jack
 *.jaff
+*.jamesbond2021\[@\]tutanotacom_jamesbond
 *.jamper
 *.javaencrypt
 *.javalocker
@@ -2972,6 +2977,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.lxhlp
 *.lyli
 *.lyli!
+*.m0nk3y
 *.m3g4c0rtx
 *.m3ga
 *.m3ga*
@@ -3031,6 +3037,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.miis
 *.mijnal
 *.mike
+*.mikop
 *.mind
 *.missing
 *.mmnn
@@ -3736,6 +3743,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wincry
 *.windows10
 *.wintenzz
+*.wiot
 *.wlu
 *.wmfxdqz
 *.wncry
@@ -3824,6 +3832,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.xyz
 *.xz
 *.yG
+*.yUixN
 *.yakuza
 *.yarraq
 *.yatron
