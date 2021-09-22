@@ -265,6 +265,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ARTEMY
 *.ASN1 Encoder
 *.ATLAS
+*.ATOMSILO
+*.ATOMSILOR
 *.AUDIT
 *.AUF
 *.AVCrypt
@@ -1185,6 +1187,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PEDANT
 *.PEDO
 *.PEGS1
+*.PENTA
 *.PERDAK
 *.PERSONAL_ID*
 *.PGPSnippet
@@ -2845,6 +2848,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kok
 *.kolz
 *.kook
+*.koom
 *.korea
 *.koreaGame
 *.korrektor
