@@ -442,6 +442,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.CRRRT
 *.CRYPTBD
 *.CRYPTED000007
+*.CRYPTEDPAY
 *.CRYPTOBOSS
 *.CRYPTOBYTE
 *.CRYPTOSHIEL
@@ -962,6 +963,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.LAZPARKING-*
 *.LCKD
 *.LDPR
+*.LEAKS
 *.LEGO
 *.LGAWPULM
 *.LGNLCKD
@@ -1595,6 +1597,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.XRNT
 *.XTP
 *.XVNAW
+*.XXVMGQ
 *.XY6LR
 *.XYZWare
 *.XZZX
@@ -1711,6 +1714,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.\[bacon@oddwallps.com\].java
 *.\[batmanbitka1@cock.li\].arena
 *.\[bitcharity@protonmail.com\].com
+*.\[black.mirror@qq.com\].aleta
 *.\[black.world@tuta.io\].nuclear
 *.\[blellockr@godzym.me\].bkc
 *.\[blind@cock.li\].blind
@@ -2002,6 +2006,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.booknish
 *.boom
 *.boooam@cock_li
+*.boooom
 *.boop
 *.boost
 *.bopador
@@ -2812,6 +2817,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.katipuneros
 *.katyusha
 *.kci0n
+*.kcry
 *.kcwenc
 *.ke3q
 *.kee
@@ -3137,6 +3143,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nochance
 *.nohope
 *.nols
+*.nomad
 *.non
 *.nooa
 *.noos
@@ -3353,6 +3360,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qnbqw
 *.qq_com*
 *.qscx
+*.quantum
 *.qwerty
 *.qweuirtksd
 *.qwex
@@ -3434,6 +3442,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rgnk
 *.rhino
 *.ribd
+*.rigd
 *.righ
 *.rip
 *.risk
@@ -3838,6 +3847,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.yG
 *.yUixN
 *.yakuza
+*.yandex
 *.yarraq
 *.yatron
 *.ybtn
