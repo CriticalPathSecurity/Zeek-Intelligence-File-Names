@@ -115,6 +115,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.*GEFEST
 *.*GLADIUS
 *.*_RSA
+*.*_luck
 *.*anta
 *.*cry
 *.*crypto
@@ -1150,6 +1151,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.OBLIVION
 *.OFFWHITE
 *.OGONIA
+*.OMG
 *.OMG!
 *.ONION
 *.ONIX
@@ -1486,6 +1488,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Tfudeq
 *.TheDMR
 *.TheDarkEncryptor
+*.TheTrumpLocker
 *.TheTrumpLockerf
 *.TheTrumpLockerp
 *.Tiger4444
@@ -1793,6 +1796,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.\[sleepme134@gmail.com\]\[ID-*\].Void
 *.\[staRcRypt@tutanota.com\].omerta
 *.\[stopencrypt@qq.com\].adobe
+*.\[stopper@india.com\].wallet
 *.\[stopstorage@qq.com\].java
 *.\[supp01@arimail.cc\].napoleon
 *.\[suupport@protonmail.com\].scarab
@@ -1848,6 +1852,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.adobe
 *.adobee
 *.adv
+*.aeroware
 *.aes!
 *.aes128ctr
 *.aes_ni
@@ -1991,6 +1996,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.block
 *.block_file12
 *.blocked
+*.blocking
 *.bloked
 *.blower
 *.bluez
