@@ -1053,6 +1053,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MOLE03
 *.MOLE04
 *.MOLE66
+*.MOON
 *.MOTD
 *.MRCR1
 *.MTC
@@ -1561,6 +1562,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.WHY…
 *.WINDOWS
 *.WKSGJ
+*.WOLF
 *.WORMCRYPT0R
 *.WORMKILLER@INDIA.COM.XTBL
 *.WRNY
@@ -2097,6 +2099,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cheetah
 *.chekyshka
 *.chifrator@qq_com
+*.chld
 *.choda
 *.ciphered
 *.cityzone-*
