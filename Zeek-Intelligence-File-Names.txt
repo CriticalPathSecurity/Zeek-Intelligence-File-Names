@@ -3033,6 +3033,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mbed
 *.mbit
 *.mbrcodes
+*.mded
 *.mdk4y
 *.mechu4Po
 *.mecury
@@ -3638,6 +3639,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.thor
 *.thunder
 *.tirp
+*.tisc
 *.tmp.exe
 *.to.dernesatiko@mail.com.crypted
 *.todar
@@ -3673,6 +3675,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tzu
 *.uDz2j8mv
 *.ucftz*
+*.udacha
 *.udjvu
 *.ufwj
 *.uk-dealer@sigaint.org
