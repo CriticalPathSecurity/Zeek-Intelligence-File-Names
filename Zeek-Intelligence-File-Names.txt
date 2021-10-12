@@ -1126,6 +1126,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.NOV
 *.NSB
 *.NUMBERDOT
+*.NaS
 *.Nano
 *.NanoLocker
 *.Navi
@@ -1900,6 +1901,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ap19
 *.apis
 *.aqva
+*.aram
 *.arazite
 *.arch
 *.area
@@ -1930,6 +1932,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.babaxed
 *.babaxed!
 *.bablo
+*.babyduck
 *.babyk
 *.backup
 *.badday
@@ -2047,6 +2050,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.btos
 *.budak
 *.bufas
+*.bugs
 *.builder
 *.bukyak
 *.bumcoder
@@ -2475,6 +2479,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fuckunicornhtrhrtjrj
 *.fuckyourdata
 *.fun
+*.fxs
 *.g0h8iwj
 *.g8R4rqWIp9
 *.g^od
@@ -2623,6 +2628,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.horsedeal
 *.horseleader
 *.horsuke@nuke.africa
+*.hotcoffee
 *.how_to_recover*.*
 *.howareyou
 *.howcanihelpusir
@@ -3170,6 +3176,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nppp
 *.npsg
 *.npsk
+*.nqsq
 *.nsmf
 *.ntu
 *.ntuseg
@@ -3452,6 +3459,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rgnk
 *.rhino
 *.ribd
+*.ricksanchez
 *.rigd
 *.righ
 *.rip
@@ -3504,6 +3512,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.saturn
 *.saved
 *.saverswasted
+*.saylessrsnm
 *.scarab
 *.scl
 *.scorpio
@@ -3533,6 +3542,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.shadi
 *.shadow
 *.shariz
+*.shasha
 *.shelbyboom
 *.shifr
 *.shinigami
@@ -3565,6 +3575,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.snatch
 *.snoopdog
 *.solaso
+*.soli
 *.somik1
 *.son
 *.sophos
@@ -3616,6 +3627,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sz40
 *.szesnl
 *.szf
+*.t1000
 *.tabe
 *.tabufa
 *.tanos
