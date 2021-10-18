@@ -1537,6 +1537,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.VIVELAG
 *.VMola
 *.Valley
+*.VanGoth
 *.Vapor
 *.VaultCrypt
 *.Vega
@@ -2774,6 +2775,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ipygh
 *.iqll
 *.iqy
+*.irjg
 *.ironhead
 *.isis
 *.isolated
@@ -3321,6 +3323,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pleaseCallQQ
 *.pluto
 *.pnr
+*.poison
 *.poker
 *.pola
 *.pooe
@@ -3382,6 +3385,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qweuirtksd
 *.qwex
 *.qwqd
+*.qxycv
 *.r3f5s
 *.r3store
 *.r44s
@@ -3743,6 +3747,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vpsh
 *.vrmrkz
 *.vscrypt
+*.vtua
 *.vulston
 *.vusad
 *.vvao
