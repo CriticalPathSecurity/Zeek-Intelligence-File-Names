@@ -176,6 +176,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.2k19
 *.2k19sys
 *.2lwnPp2B
+*.2ourt0
 *.2spyware
 *.2x2d
 *.2xx9
@@ -2991,6 +2992,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.loveyouisreal
 *.lpsk
 *.lr
+*.lsas
 *.lssr
 *.luboversova148
 *.luceq
@@ -3010,6 +3012,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.m3ga*
 *.m3gac0rtx
 *.maas
+*.macaw
 *.maddog
 *.madebyadam
 *.madek
@@ -3030,6 +3033,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mammon
 *.maniac
 *.mapo
+*.maql
 *.mariacbc
 *.mars
 *.masked
@@ -3897,6 +3901,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.z8sj2c
 *.zXz
 *.zaplat.za*
+*.zaps
 *.zatrov
 *.zbt
 *.zbw
