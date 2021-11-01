@@ -1183,6 +1183,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Ozoza
 *.P4WN3D
 *.PA-SIEM
+*.PALQ
 *.PANDA
 *.PARTY
 *.PAUSA
@@ -2154,6 +2155,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.con30
 *.condat
 *.contact-me-here-for-the-key-admin@adsoleware.com
+*.cool
 *.coom
 *.coos
 *.coot
