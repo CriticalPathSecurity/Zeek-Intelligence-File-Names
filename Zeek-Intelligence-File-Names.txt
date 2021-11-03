@@ -1059,6 +1059,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MOON
 *.MOTD
 *.MRCR1
+*.MS
 *.MTC
 *.MTXLOCK
 *.MZ173801
@@ -1128,6 +1129,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.NOT_OPEN
 *.NOV
 *.NSB
+*.NTB
 *.NUMBERDOT
 *.NaS
 *.Nano
@@ -1864,6 +1866,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.adv
 *.aeroware
 *.aes!
+*.aes.JANELLE
 *.aes128ctr
 *.aes_ni
 *.aes_ni_0day
