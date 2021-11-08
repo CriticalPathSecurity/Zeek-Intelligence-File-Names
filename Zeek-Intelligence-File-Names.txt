@@ -1572,6 +1572,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.WINDOWS
 *.WKSGJ
 *.WOLF
+*.WORM
 *.WORMCRYPT0R
 *.WORMKILLER@INDIA.COM.XTBL
 *.WRNY
@@ -2573,6 +2574,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hacker
 *.hacker_decryption@protonmail.ch
 *.haka
+*.hamster
 *.hannah
 *.happenencedfiles
 *.happy
@@ -3621,6 +3623,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sshxkej
 *.ssimpotashka@gmail.com
 *.stare
+*.stax
 *.steriok
 *.stevenseagal@airmail.cc
 *.sthd2
