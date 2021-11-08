@@ -1953,6 +1953,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bagli
 *.bam!
 *.bananaCrypt
+*.bandana
 *.bang
 *.banjo
 *.banta
@@ -2791,6 +2792,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.iqll
 *.iqy
 *.irjg
+*.irkf
 *.ironhead
 *.isis
 *.isolated
@@ -3353,6 +3355,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.poop
 *.popotic
 *.popoticus
+*.por
 *.porno
 *.porno.pornoransom
 *.pornoransom
