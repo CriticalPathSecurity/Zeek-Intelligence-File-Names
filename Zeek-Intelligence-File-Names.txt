@@ -2392,6 +2392,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.encedRSA
 *.encencenc
 *.encmywork
+*.encoded01
 *.encoded_PL
 *.encoderpass
 *.encrpt3d
@@ -3397,10 +3398,12 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qQ6Q
 *.qbix
 *.qbtex
+*.qdla
 *.qensvlcbymk
 *.qewe
 *.qkG
 *.qlkm
+*.qmak
 *.qnbqw
 *.qq_com*
 *.qscx
