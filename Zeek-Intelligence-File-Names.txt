@@ -2495,6 +2495,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fuckunicornhtrhrtjrj
 *.fuckyourdata
 *.fun
+*.futm
 *.fxs
 *.g0h8iwj
 *.g8R4rqWIp9
