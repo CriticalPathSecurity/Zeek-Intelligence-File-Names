@@ -2339,6 +2339,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.drume
 *.drweb
 *.dsec
+*.dst
 *.dubai317898@gmailcom
 *.ducky
 *.ducueyuav
@@ -2774,6 +2775,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.igvm
 *.igza4c
 *.ihsdj
+*.iisa
 *.iiss
 *.iloveworld
 *.im*back
@@ -3367,6 +3369,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.powned
 *.poyvonm
 *.ppam
+*.pqgs
 *.pr09
 *.pr0Lock
 *.pr0tect
@@ -3740,6 +3743,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.usagoo
 *.usam
 *.usr0
+*.utjg
 *.uudjvu
 *.v-society
 *.v316
