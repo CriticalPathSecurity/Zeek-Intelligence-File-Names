@@ -389,6 +389,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Bitshifter
 *.Black Feather
 *.Black Shades
+*.BlackCocaine*
 *.BlackHat
 *.BlackHeart
 *.BlackKingdom
@@ -1105,6 +1106,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Mystic
 *.NASAcry
 *.NCrypt
+*.NEEH
 *.NEFILIM
 *.NEMTY_*
 *.NEMTY_AJORCUS
@@ -1854,6 +1856,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.abkir
 *.abstergo
 *.acc
+*.accuj
 *.actin
 *.actor
 *.acuna
@@ -2028,6 +2031,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.booa
 *.booknish
 *.boom
+*.boombye
 *.boooam@cock_li
 *.boooom
 *.boop
@@ -2114,6 +2118,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.checkdiskenced
 *.cheetah
 *.chekyshka
+*.chichi
 *.chifrator@qq_com
 *.chld
 *.choda
@@ -2334,6 +2339,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.doples
 *.dotmap
 *.doubleoffset
+*.doyuk2
 *.dqb
 *.dragnea
 *.drume
@@ -3757,6 +3763,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vassago
 *.vassagoh
 *.vault
+*.vaultz
 *.vawe
 *.vcrypt
 *.vdul
