@@ -329,6 +329,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Aurora
 *.AutoLocky
 *.AutoWannaCryV2
+*.AvGhost
 *.Avaad
 *.Avest
 *.AxCrypter
@@ -1900,6 +1901,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.amba
 *.amber
 *.amnesia
+*.amogus
 *.anami
 *.andonio
 *.android
@@ -3503,6 +3505,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ricksanchez
 *.rigd
 *.righ
+*.rigj
 *.rip
 *.risk
 *.rivd
@@ -3514,6 +3517,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rnsmwre
 *.robbinhood
 *.robinhood
+*.robm
 *.rogue
 *.rokku
 *.roland
