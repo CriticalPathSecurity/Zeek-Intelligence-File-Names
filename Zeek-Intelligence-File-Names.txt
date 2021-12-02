@@ -1051,6 +1051,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MMTA
 *.MMTeam
 *.MNS
+*.MOIA
 *.MOLE
 *.MOLE00
 *.MOLE01
@@ -1609,6 +1610,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.XCry
 *.XERO
 *.XHAMSTER
+*.XIII
 *.XINOF
 *.XMEYU
 *.XNMMP
@@ -1636,6 +1638,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.YOU-ARE-FUCKED-BY-BALILUWARE-(CODED-BY-HEROPOINT)
 *.YOURPCISHACK16024752552658
 *.YOUR_LAST_CHANCE
+*.YQAL
 *.YTBL
 *.YYTO
 *.YYYYBJQOQDU
@@ -2021,6 +2024,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.blocking
 *.bloked
 *.blower
+*.blue
 *.bluez
 *.bmd
 *.bmn63
