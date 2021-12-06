@@ -283,6 +283,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Acton
 *.Acton.id\[1AE26935-1085\].\[hadleeshelton@aol.com\].Acton
 *.Acuf2
+*.Acuff
 *.AdamLocker
 *.Adame
 *.AdolfHitler
@@ -610,6 +611,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Death_Of_Shadow
 *.DecYourData
 *.DecryptIomega
+*.Deeep
 *.Defray
 *.Defray777
 *.Deniz_Kızı
@@ -643,6 +645,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.EG
 *.EG83
 *.EGG
+*.ELDAOLSA
 *.EMAN
 *.EMAN50
 *.EMPTY
@@ -819,6 +822,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.HILDA
 *.HJAWF
 *.HKCrypt
+*.HORSELIKER
 *.HORSEMONEY
 *.HPE iLO
 *.HPJ
@@ -1356,6 +1360,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.RexCrypt
 *.Reyptson
 *.Roga
+*.Rook
 *.Rooster865qq
 *.Rooster865qqZ
 *.RoshaLock
@@ -2126,6 +2131,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.chekyshka
 *.chichi
 *.chifrator@qq_com
+*.chinz
 *.chld
 *.choda
 *.ciphered
@@ -3950,6 +3956,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zaplat.za*
 *.zaps
 *.zatrov
+*.zax
 *.zbt
 *.zbw
 *.zc3791
