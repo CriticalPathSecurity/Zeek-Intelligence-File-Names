@@ -397,6 +397,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.BlackKingdom
 *.BlackPink
 *.BlackRouter
+*.BlackSun
 *.Blackout
 *.Blind 2
 *.BlockFile12
@@ -818,6 +819,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.HDDCryptor
 *.HELLO
 *.HELPPME@INDIA.COM.ID83994902
+*.HGSH
 *.HHFEHIOL
 *.HILDA
 *.HJAWF
@@ -1136,6 +1138,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.NOT
 *.NOT_OPEN
 *.NOV
+*.NRCL
 *.NSB
 *.NTB
 *.NUMBERDOT
@@ -1634,6 +1637,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Xino
 *.XmdXtazX
 *.XmdXtazX.
+*.Xqxqx
 *.YAYA
 *.YBNT
 *.YDHM
@@ -2774,6 +2778,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.id\[*-2720\].\[mr.helper@qq.com\].dewar
 *.id\[*-2987\].\[crioso@protonmail.com\].eking
 *.id\[*\].*.dewar
+*.id\[*\].\[*\].lama
 *.id\[*\].\[*\].revon
 *.id\[*\].\[2183313275@qq.com\].Devos
 *.id\[*\].\[backcompanyfiles@protonmail.com\].Calum
@@ -3113,6 +3118,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mikop
 *.mind
 *.missing
+*.mljx
 *.mmnn
 *.mmpa
 *.mnbzr
@@ -3287,6 +3293,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.p3d374
 *.p3rt4m1n4777
 *.p5tkjw
+*.pHv1
 *.paas
 *.pablukCRYPT
 *.pabluklocker
@@ -3757,6 +3764,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.unavailable
 *.unbrecrypt_ID_*
 *.uniwinni.crypt
+*.unlock
 *.unwa
 *.upd9ykc65v
 *.urnb
@@ -3843,6 +3851,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.windows10
 *.wintenzz
 *.wiot
+*.wixawm
 *.wlu
 *.wmfxdqz
 *.wncry
@@ -3918,6 +3927,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.xolzsec
 *.xorist
 *.xort
+*.xot5ik
 *.xoza
 *.xp10-ransom
 *.xraw
