@@ -416,6 +416,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Bucbi
 *.C-VIR
 *.C0rp0r@c@0Xr@
+*.C1024
 *.C1H
 *.C4H
 *.CAGO
@@ -1352,6 +1353,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ReadManual.*
 *.ReadTheInstructions
 *.Read_Me.Txt
+*.Reads
 *.RedBoot
 *.RedEye
 *.Rektware
@@ -1536,6 +1538,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.UKCZA
 *.UNIT09
 *.UNLIS
+*.Ubrhnqznw
 *.Ukash
 *.UmbreCrypt
 *.UnblockUPC
@@ -2675,6 +2678,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.howcanihelpusir
 *.hrosas
 *.htrs
+*.hudf
 *.hush
 *.hydracrypt_ID*
 *.hydracrypt_ID_*
@@ -2893,6 +2897,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.keybtc@inbox_com
 *.kezoz
 *.kgpvwnr
+*.khonsari
 *.kikiriki
 *.kilit
 *.kill
@@ -3468,6 +3473,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rat
 *.ravack
 *.razarac
+*.razio
 *.razor
 *.razy
 *.razy1337
@@ -3581,6 +3587,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.scl
 *.scorpio
 *.scrcrw
+*.scrypt
 *.sdk
 *.sdwwbrb
 *.sea
@@ -3597,6 +3604,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sexy
 *.sfile2
 *.sfs
+*.sghv
 *.sglh
 *.sgood
 *.sgs911
@@ -3608,6 +3616,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.shariz
 *.shasha
 *.shelbyboom
+*.shgv
 *.shifr
 *.shinigami
 *.shino
