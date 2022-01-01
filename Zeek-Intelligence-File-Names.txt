@@ -469,6 +469,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.CYBERGOD
 *.CYRAT
 *.CYRON
+*.C_L_O_P
 *.Caley
 *.Calum
 *.Cancer
@@ -637,6 +638,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.DoubleLocker
 *.Doxes
 *.DriedSister
+*.Drik
 *.Drop
 *.DryCry
 *.Dusk
@@ -2330,6 +2332,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.die
 *.digiworldhack@tutanota.com
 *.diller13
+*.dirk
 *.disposed2017
 *.divine
 *.divinity
@@ -2625,6 +2628,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hcked
 *.hdeaf
 *.hdmr
+*.health
 *.heets
 *.heisenberg
 *.hela
@@ -2950,6 +2954,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kvllyatprotonmaildotch
 *.kwaaklocked
 *.kyra
+*.l41
 *.lO8s42
 *.lalabitch
 *.lalabitch,
@@ -3117,6 +3122,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.middleman2020
 *.midwestsurinc
 *.mihq
+*.miia
 *.miis
 *.mijnal
 *.mike
@@ -3210,6 +3216,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nlocker
 *.nm8kci
 *.nmc
+*.nnqp
 *.no_more_ransom
 *.no_more_ransomware
 *.noblis
@@ -3427,6 +3434,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pwned
 *.pxj
 *.pykw
+*.pyphyfe
 *.pysa
 *.pzdc
 *.qQ6Q
@@ -3583,6 +3591,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.saved
 *.saverswasted
 *.saylessrsnm
+*.sbpg
 *.scarab
 *.scl
 *.scorpio
@@ -3892,6 +3901,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.x3mpro
 *.xati
 *.xbml
+*.xcmb
 *.xcry7684
 *.xcrypt
 *.xcss
