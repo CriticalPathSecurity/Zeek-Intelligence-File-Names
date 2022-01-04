@@ -1412,6 +1412,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.STOP
 *.STOPDATA
 *.SUPERCRYPT
+*.SURT
 *.SUSPENDED
 *.SXS
 *.SYMMYWARE
@@ -1621,6 +1622,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Wx7A6
 *.XBTL
 *.XCry
+*.XD-99
 *.XERO
 *.XHAMSTER
 *.XIII
@@ -3034,6 +3036,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.lolkek
 *.londec
 *.lookfornewitguy
+*.loov
 *.loptr
 *.lordofshadow
 *.lost
@@ -3236,6 +3239,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nosu
 *.notfoundrans
 *.novasof
+*.noway
 *.nozelesn
 *.npph
 *.nppp
@@ -3699,6 +3703,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.supportfiless24@protonmail.ch
 *.suppose666
 *.surprise
+*.surtr
 *.sux
 *.sux.AES128
 *.svyx
@@ -3734,6 +3739,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.theworldisyours
 *.thor
 *.thunder
+*.timetime
 *.tirp
 *.tisc
 *.tmp.exe
