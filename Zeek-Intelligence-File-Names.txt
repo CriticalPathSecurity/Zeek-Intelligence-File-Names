@@ -1557,6 +1557,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.VAGGEN
 *.VBRANSOM
 *.VENDETTA
+*.VGKF
 *.VIRUS
 *.VIVAL
 *.VIVELAG
@@ -2099,6 +2100,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.c0hen
 *.c0v
 *.c300
+*.c8onnde
 *.cRh8
 *.cadq
 *.calix
@@ -2177,6 +2179,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.codnet
 *.codnet1
 *.codyprince92@mail.com.ovgm
+*.coffee
 *.coharos
 *.coin
 *.coka
@@ -2319,6 +2322,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.dedo
 *.deep
 *.defender
+*.dehd
 *.demonslay335_you_cannot_decrypt_me!
 *.deria
 *.derp
@@ -3211,6 +3215,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.news
 *.nginxhole
 *.nhHtFWV
+*.nightsky
 *.nile
 *.ninja
 *.njkwe
@@ -3245,6 +3250,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nppp
 *.npsg
 *.npsk
+*.nqhd
 *.nqsq
 *.nsmf
 *.ntu
@@ -3417,6 +3423,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.predator
 *.prnds
 *.proL0ck
+*.problem
 *.proced
 *.proden
 *.projectzorgo
