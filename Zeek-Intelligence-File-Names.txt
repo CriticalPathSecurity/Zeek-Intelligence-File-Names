@@ -135,6 +135,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *...Files-Frozen-NEED-TO-MAKE-PAYMENT…
 *..txt
 *.0.cs
+*.0.locked
 *.0.vb
 *.0000
 *.010001
@@ -185,6 +186,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.31392E30362E32303136_*
 *.32aa
 *.3301
+*.360
 *.3674AD9F-5958-4F2A-5CB7-F0F56A8885EA
 *.3P7m
 *.3RNu
@@ -2045,6 +2047,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bluez
 *.bmd
 *.bmn63
+*.bmo
 *.bmps@tutanota.com.major
 *.bmtf
 *.bobelectron
@@ -3997,6 +4000,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zXz
 *.zaplat.za*
 *.zaps
+*.zaqi
 *.zatrov
 *.zax
 *.zbt
