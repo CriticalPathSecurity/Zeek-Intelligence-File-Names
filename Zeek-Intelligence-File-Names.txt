@@ -2493,6 +2493,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.felix
 *.ferosas
 *.fezmm
+*.fhkf
 *.file0locked
 *.filegofprencrp
 *.fileiscryptedhard
@@ -3403,6 +3404,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.poison
 *.poker
 *.pola
+*.polizia
 *.pooe
 *.poof
 *.poolezoor
@@ -3833,6 +3835,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vesad
 *.vesrato
 *.vfcfocxph
+*.vfgj
 *.via
 *.viiper
 *.viki
