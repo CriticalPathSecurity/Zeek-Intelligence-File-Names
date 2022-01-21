@@ -651,6 +651,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.EG
 *.EG83
 *.EGG
+*.ELBOW
 *.ELDAOLSA
 *.EMAN
 *.EMAN50
@@ -1117,6 +1118,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MrDec
 *.MyChemicalRomance4EVER
 *.Mystic
+*.NARUMI
 *.NASAcry
 *.NCrypt
 *.NEEH
@@ -2150,6 +2152,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.chinz
 *.chld
 *.choda
+*.cip
 *.ciphered
 *.cityzone-*
 *.cizer
@@ -2955,6 +2958,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kryptonite
 *.krzffw
 *.kslhb
+*.ktc
 *.ktuhzxpi
 *.kuntzware
 *.kupidon
@@ -3077,6 +3081,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.m3ga
 *.m3ga*
 *.m3gac0rtx
+*.maak
 *.maas
 *.macaw
 *.maddog
@@ -3174,6 +3179,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.msop
 *.mtk118
 *.mtogas
+*.mtx
 *.muhstik
 *.muslat
 *.muuq
@@ -3541,6 +3547,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.reqg
 *.restore_fi*.*
 *.resurrection
+*.returndata
 *.revolution
 *.revon
 *.reycarnasi1983@protonmail.com.gw3w
@@ -3765,6 +3772,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.topi
 *.tortoise
 *.toxcrypt
+*.trap
 *.trevinomason1@mail.com.vsunit
 *.triple_m
 *.trix
@@ -3984,8 +3992,10 @@ $RECYCLE.BIN.{*-*-*-*}
 *.yandex
 *.yarraq
 *.yatron
+*.yber
 *.ybtn
 *.ygkz
+*.yjqs
 *.ykcol
 *.yl
 *.yoAD
