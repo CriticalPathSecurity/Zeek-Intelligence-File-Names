@@ -2019,6 +2019,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bip
 *.birbb
 *.bit
+*.bitchlock
 *.bitkangoroo
 *.bitpy
 *.bitstak
@@ -2314,6 +2315,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ddos
 *.ddpcbi
 *.ddsg
+*.deadbolt
 *.deadfiles
 *.deal
 *.dec
@@ -3145,6 +3147,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mikop
 *.mind
 *.missing
+*.mjlx
 *.mljx
 *.mmnn
 *.mmpa
@@ -3470,6 +3473,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qmak
 *.qnbqw
 *.qq_com*
+*.qqqe
+*.qqqw
 *.qscx
 *.quantum
 *.qwerty
@@ -3794,6 +3799,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tx_locked!
 *.txd0t
 *.txd0t!
+*.txtt
 *.tzu
 *.uDz2j8mv
 *.ucftz*
@@ -4000,6 +4006,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.yl
 *.yoAD
 *.yoewy
+*.yoqs
 *.youransom
 *.yourransom
 *.yq75w627
