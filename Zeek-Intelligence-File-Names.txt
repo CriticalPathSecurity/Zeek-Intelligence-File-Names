@@ -162,6 +162,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.1btc
 *.1dec
 *.1txt
+*.1whya
 *.1ywsmbo4
 *.2020END
 *.2048
@@ -949,6 +950,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.KLZUB
 *.KOK08
 *.KOK8
+*.KOXIC*
 *.KRAB
 *.KRONOS
 *.KUAJW
@@ -1673,6 +1675,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ZIEBF_4561drgf
 *.ZIG
 *.ZINO
+*.ZOZL
 *.ZQ
 *.ZRB
 *.ZW
@@ -1959,6 +1962,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.avdn
 *.avos
 *.avos2
+*.avyu
 *.axx
 *.azero
 *.azor
@@ -1991,6 +1995,9 @@ $RECYCLE.BIN.{*-*-*-*}
 *.basilisque@protonmail_com
 *.basslock
 *.bbawasted
+*.bbbe
+*.bbbr
+*.bbbw
 *.bboo
 *.bbqb
 *.bcBDBbAEDb
@@ -2280,6 +2287,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cspider
 *.ctbl
 *.ctrlalt@cock.li.district
+*.cuag
 *.cuba
 *.cube
 *.cum
@@ -2485,6 +2493,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fairytail
 *.fake
 *.fantom
+*.farattack
 *.fartplz
 *.fast
 *.fastrecovery.xmpp.jp
@@ -2845,6 +2854,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.irkf
 *.ironhead
 *.isis
+*.iskaluz
 *.isolated
 *.ispfv
 *.israbye
@@ -2924,6 +2934,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kimchenyn
 *.kimcilware
 *.kimcilware.locked
+*.king
 *.king_ouroboros*
 *.kir
 *.kirked
@@ -3095,6 +3106,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.magic
 *.magic_software_syndicate
 *.mailto\[2Hamlampampom@cock.li\].82a80
+*.maiv
 *.major
 *.makkonahi
 *.makop
@@ -3474,6 +3486,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qnbqw
 *.qq_com*
 *.qqqe
+*.qqqr
 *.qqqw
 *.qscx
 *.quantum
@@ -4029,6 +4042,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zcrypt
 *.zemblax
 *.zendr4
+*.zeon
 *.zeoticus
 *.zeppelin
 *.zepto
