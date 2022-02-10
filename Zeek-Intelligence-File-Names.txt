@@ -2019,6 +2019,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bgtx
 *.bguu
 *.bhacks
+*.bi
 *.biden
 *.bigdata
 *.biglock
