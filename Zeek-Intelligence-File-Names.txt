@@ -1990,6 +1990,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bang
 *.banjo
 *.banta
+*.barrel
 *.bart
 *.bart.zip
 *.basilisque@protonmail_com
@@ -2120,6 +2121,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.calix
 *.cammora
 *.canihelpyou
+*.cantopen
 *.cap
 *.captcha
 *.carcn
@@ -2133,6 +2135,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cbu1
 *.ccc
 *.cccmn
+*.ccps
 *.ccryptor
 *.cdrpt
 *.cekisan
@@ -2165,6 +2168,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ciphered
 *.cityzone-*
 *.cizer
+*.ckae
 *.ckey(RandomID).email(data1992@protonmail.com).pack14
 *.ckey(oK5WFfTq).email(data1992@protonmail.com).pack14
 *.clay
@@ -2300,6 +2304,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cymcrypt
 *.cypher
 *.czvxce
+*.d3ad
 *.d3g1d5
 *.d4nk
 *.dCrypt
@@ -2473,6 +2478,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.esexz
 *.etols
 *.euclid
+*.eucy
 *.ever101
 *.evil
 *.evillock
@@ -2831,6 +2837,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.igvm
 *.igza4c
 *.ihsdj
+*.iips
 *.iisa
 *.iiss
 *.iloveworld
@@ -3485,6 +3492,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qlkm
 *.qmak
 *.qnbqw
+*.qnty
 *.qq_com*
 *.qqqe
 *.qqqr
@@ -3698,6 +3706,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.snake4444
 *.snatch
 *.snoopdog
+*.sojusz
 *.solaso
 *.soli
 *.somik1
@@ -4172,6 +4181,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *aes_ni_gov
 *bingo@opensourcemail.org
 *cerber2
+*d3ad_Help.*
 *decipher*
 *decrypt my file*.*
 *decrypt your file*.*
