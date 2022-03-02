@@ -2951,6 +2951,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kjh
 *.kkk
 *.kkll
+*.kl
 *.klavins
 *.klope
 *.kobos
