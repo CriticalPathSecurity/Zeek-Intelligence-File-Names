@@ -1400,6 +1400,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.SEVENDAYS
 *.SF
 *.SFile
+*.SG1995
 *.SHARK
 *.SHRUG
 *.SHRUG2
@@ -3236,6 +3237,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.neer
 *.nef1lim
 *.neitrino
+*.nekochan
 *.nelasod
 *.nemesis
 *.nemo-hacks.at.sigaint.org
