@@ -1957,6 +1957,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.artilkilin@tuta.io.wq2k
 *.asasin
 *.asdasdasd
+*.asdgahgahgf
 *.au1crypt
 *.aulmhwpbpz
 *.auw2w2g0
@@ -3415,6 +3416,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pfanz
 *.phantom
 *.phoenix
+*.pickle
 *.picocode#8523
 *.pidom
 *.pidon
