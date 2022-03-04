@@ -3898,6 +3898,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vvoa
 *.vvv
 *.vxLock
+*.vyia
 *.w2tnk
 *.wal
 *.wallet
