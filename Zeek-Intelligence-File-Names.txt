@@ -2839,6 +2839,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.igvm
 *.igza4c
 *.ihsdj
+*.iiof
 *.iips
 *.iisa
 *.iiss
