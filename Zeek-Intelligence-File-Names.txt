@@ -1995,6 +1995,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.barrel
 *.bart
 *.bart.zip
+*.bashrc
 *.basilisque@protonmail_com
 *.basslock
 *.bbawasted
@@ -3489,6 +3490,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pysa
 *.pzdc
 *.qQ6Q
+*.qbaa
 *.qbix
 *.qbtex
 *.qdla
