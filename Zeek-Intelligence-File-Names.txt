@@ -2533,6 +2533,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fmk-ta3-7ym
 *.fmoon
 *.foop
+*.fopa
 *.foqe
 *.forasom
 *.fordan
