@@ -3547,6 +3547,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rbs
 *.rcrypted
 *.rdmk
+*.reL
 *.reaGAN
 *.read_to_txt_file.yyto
 *.readme
@@ -3896,6 +3897,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vrmrkz
 *.vscrypt
 *.vtua
+*.vtym
 *.vulston
 *.vusad
 *.vvao
