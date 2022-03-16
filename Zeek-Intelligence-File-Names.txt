@@ -1886,6 +1886,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.abstergo
 *.acc
 *.accuj
+*.acepy
 *.actin
 *.actor
 *.acuna
@@ -2162,6 +2163,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.checkdiskenced
 *.cheetah
 *.chekyshka
+*.chernobyl
 *.chichi
 *.chifrator@qq_com
 *.chinz
@@ -2721,6 +2723,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hush
 *.hydracrypt_ID*
 *.hydracrypt_ID_*
+*.iFire
 *.iGotYou
 *.iRansom
 *.iaufhhhfiles_BACK_PLS_READ.html
@@ -3888,6 +3891,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.viki
 *.vindows
 *.vjiszy1lo
+*.vlff
 *.volcano
 *.volvo33_36_37_39__44
 *.vovalex
