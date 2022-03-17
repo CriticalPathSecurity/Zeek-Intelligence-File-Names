@@ -2498,6 +2498,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.extension.srpx
 *.exx
 *.eye
+*.eyrv
 *.ezz
 *.ezzyl
 *.f*cked
@@ -3842,6 +3843,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.udacha
 *.udjvu
 *.ufwj
+*.uigd
 *.uk-dealer@sigaint.org
 *.uk6ge
 *.ukr.net*
