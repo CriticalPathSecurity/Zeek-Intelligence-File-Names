@@ -2575,6 +2575,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.garrantydecrypt
 *.gate
 *.gdb
+*.gdwill
 *.ge010gic
 *.ge0l0gic
 *.ge0l0gic_readme.txt
@@ -2691,6 +2692,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hese
 *.hets
 *.hex911
+*.hfgd
 *.hhqa
 *.hilegofprencrp
 *.himr
@@ -3181,6 +3183,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mljx
 *.mmnn
 *.mmpa
+*.mmuz
 *.mnbzr
 *.mo2
 *.mo7n
@@ -3595,6 +3598,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rezm
 *.rezuc
 *.rgnk
+*.rguy
 *.rhino
 *.ribd
 *.ricksanchez
