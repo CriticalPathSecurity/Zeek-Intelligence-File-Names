@@ -2960,6 +2960,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kiss
 *.kitty
 *.kjh
+*.kkia
 *.kkk
 *.kkll
 *.kl
@@ -3465,6 +3466,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.powned
 *.poyvonm
 *.ppam
+*.pphg
 *.pqgs
 *.pr09
 *.pr0Lock
@@ -3746,6 +3748,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ssananunak1987@protonmail.com.b2fr
 *.sshxkej
 *.ssimpotashka@gmail.com
+*.ssoi
 *.stare
 *.stax
 *.steriok
