@@ -3001,6 +3001,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kvag
 *.kvllyatprotonmaildotch
 *.kwaaklocked
+*.kxde
 *.kyra
 *.l41
 *.lO8s42
@@ -3933,6 +3934,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wcry
 *.wctc
 *.wdie
+*.wdlo
 *.weapologize
 *.wearefriends
 *.weareyourfriends
