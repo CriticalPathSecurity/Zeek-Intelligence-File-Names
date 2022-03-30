@@ -1715,6 +1715,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.\[BRAINCRYPT@INDIA.COM\].BRAINCRYPT
 *.\[BaYuCheng@yeah.net\].china
 *.\[Bas_ket@aol.com\].java
+*.\[Bomani@Email.Com\]
 *.\[Brazzers@aolonline.top\].arena
 *.\[Delta\]*
 *.\[DonovanTudor@aol.com\].bat
@@ -3727,6 +3728,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.snake4444
 *.snatch
 *.snoopdog
+*.snwd
 *.sojusz
 *.solaso
 *.soli
