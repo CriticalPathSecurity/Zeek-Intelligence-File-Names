@@ -485,6 +485,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.China
 *.ChinaYunLong
 *.ChineseRarypt
+*.Chuklock
 *.Cl0p
 *.ClicoCrypter
 *.Clop
@@ -2624,6 +2625,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.gruzin@qq_com
 *.gryphon
 *.gtsc
+*.gtys
 *.guarded
 *.gudj
 *.guer
@@ -3210,6 +3212,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mosk
 *.moss
 *.mouse
+*.mpag
 *.mpaj
 *.mpal
 *.mppq
@@ -3852,6 +3855,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ucftz*
 *.udacha
 *.udjvu
+*.udla
 *.ufwj
 *.uigd
 *.uk-dealer@sigaint.org
@@ -3906,6 +3910,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vlff
 *.volcano
 *.volvo33_36_37_39__44
+*.voom
 *.vovalex
 *.voyager
 *.vpgvlkb
