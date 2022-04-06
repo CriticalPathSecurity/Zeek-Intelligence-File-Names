@@ -3842,6 +3842,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.try
 *.tsv
 *.ttt
+*.tuid
 *.tuki17@qq.com
 *.tunca
 *.twist
@@ -3875,6 +3876,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.usr0
 *.utjg
 *.uudjvu
+*.uyjh
 *.v-society
 *.v316
 *.vCrypt1
