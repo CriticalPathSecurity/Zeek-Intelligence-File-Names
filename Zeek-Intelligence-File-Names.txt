@@ -1050,6 +1050,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MAFIA
 *.MALWAREDEVELOPER
 *.MANSORY
+*.MATILAN
 *.MATRIX
 *.MAYA
 *.MCrypt2018
@@ -2087,6 +2088,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.boston
 *.bot
 *.bot!
+*.bozon
 *.braincrypt
 *.breaking bad
 *.breaking_bad
