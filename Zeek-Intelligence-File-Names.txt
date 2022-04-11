@@ -486,6 +486,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ChinaYunLong
 *.ChineseRarypt
 *.Chuklock
+*.Cj
 *.Cl0p
 *.ClicoCrypter
 *.Clop
@@ -799,6 +800,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.GhostHammer
 *.Gibberish
 *.Gibon
+*.Gilfillan
 *.GlUtEzOn.VaNoLe
 *.Globe3
 *.GlobeImposter
@@ -1124,6 +1126,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Mystic
 *.NARUMI
 *.NASAcry
+*.NB65
 *.NCrypt
 *.NEEH
 *.NEFILIM
@@ -2057,6 +2060,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.blocatto
 *.bloccato
 *.block
+*.blockZ
 *.block_file12
 *.blocked
 *.blocking
@@ -2354,6 +2358,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.deep
 *.defender
 *.dehd
+*.democ
 *.demonslay335_you_cannot_decrypt_me!
 *.deria
 *.derp
@@ -2524,6 +2529,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.felix
 *.ferosas
 *.fezmm
+*.fgnh
 *.fhkf
 *.file0locked
 *.filegofprencrp
@@ -2594,6 +2600,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.gerosan
 *.gesd
 *.get
+*.ghas
 *.ghost
 *.gigahertz
 *.givemenitro
@@ -2649,6 +2656,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hacked.by.Snaiparul
 *.hacker
 *.hacker_decryption@protonmail.ch
+*.hajd
 *.haka
 *.hamster
 *.hannah
@@ -3518,6 +3526,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qmak
 *.qnbqw
 *.qnty
+*.qpss
 *.qq_com*
 *.qqqe
 *.qqqr
@@ -3674,6 +3683,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.scorpio
 *.scrcrw
 *.scrypt
+*.sdhvqq
 *.sdk
 *.sdwwbrb
 *.sea
