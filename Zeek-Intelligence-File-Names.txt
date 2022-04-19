@@ -2050,6 +2050,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.black007
 *.blackruby
 *.blank
+*.blaze
 *.bleep
 *.bleepYourFiles
 *.blend
@@ -2405,6 +2406,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.doubleoffset
 *.doyuk2
 *.dqb
+*.dqws
 *.dragnea
 *.drume
 *.drweb
@@ -3320,6 +3322,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ntuseg
 *.nuclear
 *.nuclear55
+*.nuhb
 *.nuke55
 *.nuksus
 *.nusar
@@ -3441,6 +3444,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pezi
 *.pfanz
 *.phantom
+*.phmqdw
 *.phoenix
 *.pickle
 *.picocode#8523
@@ -3695,6 +3699,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sepsys
 *.serpent
 *.serpom
+*.session
 *.setimichas1971@protonmail.com.b4wq
 *.sext
 *.sexy
@@ -3776,6 +3781,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.stn
 *.stnts
 *.stone
+*.stopfiles
 *.stroman
 *.stub
 *.stun
@@ -3886,6 +3892,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.usagoo
 *.usam
 *.usr0
+*.ust29
 *.utjg
 *.uudjvu
 *.uyjh
