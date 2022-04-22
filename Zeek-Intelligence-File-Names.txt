@@ -2388,6 +2388,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.djvus
 *.djvut
 *.dlenggrl
+*.dmay
 *.dme
 *.dmo
 *.doc!
@@ -2651,6 +2652,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.gws
 *.gws.porno
 *.gyga
+*.gzgzqc
 *.gоod
 *.h3ll
 *.hNcrypt
@@ -2890,6 +2892,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.irjg
 *.irkf
 *.ironhead
+*.iroubalsct
 *.isis
 *.iskaluz
 *.isolated
@@ -2919,6 +2922,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.jest
 *.jewsomware
 *.jey
+*.jhdd
 *.jigsaaw
 *.jimm
 *.jodis
@@ -4107,6 +4111,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zaqi
 *.zatrov
 *.zax
+*.zazas
 *.zbt
 *.zbw
 *.zc3791
