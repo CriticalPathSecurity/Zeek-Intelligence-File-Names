@@ -1033,6 +1033,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.LockfilesKR
 *.Lockify
 *.Lohodf
+*.LokiLok
 *.LolSec
 *.LongTermMemoryLoss
 *.LonleyCrypt
@@ -2006,6 +2007,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bashrc
 *.basilisque@protonmail_com
 *.basslock
+*.basta
 *.bbawasted
 *.bbbe
 *.bbbr
@@ -2743,6 +2745,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hrosas
 *.htrs
 *.hudf
+*.huis_bn
 *.hush
 *.hydracrypt_ID*
 *.hydracrypt_ID_*
