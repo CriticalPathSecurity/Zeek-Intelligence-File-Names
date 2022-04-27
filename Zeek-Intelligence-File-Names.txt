@@ -1975,6 +1975,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.avos2
 *.avyu
 *.axx
+*.axxes
 *.azero
 *.azor
 *.b00m
@@ -2371,6 +2372,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.devil
 *.devon
 *.dewar
+*.dewd
 *.dexx
 *.dfjhsalfhsakljfhsljkahfdjklashfdjklh
 *.dharma
@@ -2925,7 +2927,9 @@ $RECYCLE.BIN.{*-*-*-*}
 *.jest
 *.jewsomware
 *.jey
+*.jhbg
 *.jhdd
+*.jhgn
 *.jigsaaw
 *.jimm
 *.jodis
