@@ -3264,6 +3264,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.n1n1n1
 *.n3tw0rm
 *.n3xtpharma
+*.n53yb34tbb2
 *.n7ys81w
 *.nWcrypt
 *.nacro
