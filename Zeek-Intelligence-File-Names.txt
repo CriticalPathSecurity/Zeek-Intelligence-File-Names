@@ -2717,6 +2717,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hets
 *.hex911
 *.hfgd
+*.hhjk
 *.hhqa
 *.hilegofprencrp
 *.himr
@@ -3213,6 +3214,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mjlx
 *.mljx
 *.mmnn
+*.mmob
 *.mmpa
 *.mmuz
 *.mnbzr
@@ -3876,6 +3878,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.trun
 *.try
 *.tsv
+*.ttii
 *.ttt
 *.tuid
 *.tuki17@qq.com
