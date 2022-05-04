@@ -3715,6 +3715,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.securityP
 *.see_read_me
 *.seed
+*.selena
 *.sepsys
 *.serpent
 *.serpom
@@ -4333,6 +4334,7 @@ $RECYCLE.BIN.{*-*-*-*}
 .megac0rtx
 .mike!Ransom
 .nampohyu
+.nigra
 .ohwqg
 .pause
 .plomb
