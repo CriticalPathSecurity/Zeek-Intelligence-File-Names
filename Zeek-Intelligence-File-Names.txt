@@ -1092,6 +1092,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MafiaWare
 *.Magniber
 *.MailRU
+*.Mal
 *.Malki
 *.MalwareTech*
 *.Maoloa
@@ -2013,6 +2014,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bbbe
 *.bbbr
 *.bbbw
+*.bbnm
 *.bboo
 *.bbqb
 *.bcBDBbAEDb
@@ -3210,6 +3212,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mike
 *.mikop
 *.mind
+*.mine
 *.missing
 *.mjlx
 *.mljx
@@ -3747,6 +3750,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sick
 *.sifreli
 *.sigrun
+*.sijr
 *.siliconegun@tutanota.com
 *.silvertor
 *.sinopal
@@ -4037,6 +4041,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.xcry7684
 *.xcrypt
 *.xcss
+*.xcvf
 *.xdata
 *.xdrop
 *.xfile
