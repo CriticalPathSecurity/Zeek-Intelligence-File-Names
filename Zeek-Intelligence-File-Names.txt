@@ -2915,6 +2915,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.jaff
 *.jamesbond2021\[@\]tutanotacom_jamesbond
 *.jamper
+*.japan
 *.javaencrypt
 *.javalocker
 *.jbptlio
@@ -3858,6 +3859,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.timetime
 *.tirp
 *.tisc
+*.titancrypt
 *.tmp.exe
 *.to.dernesatiko@mail.com.crypted
 *.todar
