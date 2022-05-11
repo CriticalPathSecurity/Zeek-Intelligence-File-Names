@@ -1614,6 +1614,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.WWW
 *.Waffle
 *.Wana Decrypt0r Trojan-Syria Editi0n
+*.WanaCray2023+
 *.WannaCry*
 *.WannaDie
 *.WannaPeace
@@ -2100,6 +2101,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bot
 *.bot!
 *.bozon
+*.bozon3
 *.braincrypt
 *.breaking bad
 *.breaking_bad
