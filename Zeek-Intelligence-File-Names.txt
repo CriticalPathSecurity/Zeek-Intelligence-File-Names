@@ -2502,6 +2502,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.epic
 *.epsilonred
 *.erif
+*.errz
 *.esexz
 *.etols
 *.euclid
@@ -2871,6 +2872,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.id_*_.YOUR_LAST_CHANCE
 *.id_*_.YOUR_LAST_CHANCE!
 *.idgm
+*.ifla
 *.ifuckedyou
 *.igal
 *.igdm
