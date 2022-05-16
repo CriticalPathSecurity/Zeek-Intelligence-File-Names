@@ -187,6 +187,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.31392E30362E32303136_*
 *.32aa
 *.3301
+*.34r7hGr455
 *.360
 *.3674AD9F-5958-4F2A-5CB7-F0F56A8885EA
 *.3P7m
@@ -722,6 +723,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.FEROSUS
 *.FFF
 *.FG69
+*.FIXED
 *.FIXT
 *.FJ7QvaR9VUmi
 *.FLAMINGO
@@ -2324,6 +2326,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cxkdata
 *.cyberdrill
 *.cymcrypt
+*.cyn
 *.cypher
 *.czvxce
 *.d3ad
@@ -3185,6 +3188,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.masodas
 *.masok
 *.master
+*.matamoe
 *.maxicrypt
 *.maysomware
 *.mbed
@@ -3899,6 +3903,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tx_locked!
 *.txd0t
 *.txd0t!
+*.txlck
 *.txtt
 *.tzu
 *.uDz2j8mv
