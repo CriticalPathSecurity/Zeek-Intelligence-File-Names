@@ -2285,6 +2285,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.crypt2019
 *.crypt38
 *.crypt888
+*.cryptbit
 *.crypte
 *.crypted
 *.crypted!Sample
@@ -2382,6 +2383,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.dewd
 *.dexx
 *.dfjhsalfhsakljfhsljkahfdjklashfdjklh
+*.dfwe
 *.dharma
 *.dian
 *.die
@@ -2459,6 +2461,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.eduransom
 *.efdc
 *.efji
+*.egfg
 *.egmwv
 *.egmwvm
 *.ehiz
@@ -2542,6 +2545,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fat32
 *.fbuvkngy
 *.fcfceee
+*.fdcv
 *.fdcz
 *.fedasot
 *.felix
@@ -2754,6 +2758,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.howareyou
 *.howcanihelpusir
 *.hrosas
+*.hruu
 *.htrs
 *.hudf
 *.huis_bn
@@ -3389,6 +3394,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.only-we_can-help_you
 *.onx
 *.onyon
+*.ooii
 *.oonn
 *.oops
 *.oor
@@ -3959,6 +3965,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vesrato
 *.vfcfocxph
 *.vfgj
+*.vgvx
 *.via
 *.viiper
 *.viki
