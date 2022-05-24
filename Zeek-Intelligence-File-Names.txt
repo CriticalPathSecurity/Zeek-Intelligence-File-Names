@@ -673,6 +673,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.EduCrypt
 *.EggLocker
 *.Egh9E
+*.Ehehehx12
 *.El Polocker
 *.Elbie
 *.Elder
@@ -981,6 +982,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Krider
 *.Kriptovor
 *.KryptoLocker
+*.KsiRu0w2
 *.L0CKED
 *.L1LL
 *.L33TAF
@@ -1693,6 +1695,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ZW
 *.ZaCaPa
 *.ZaLtOn
+*.ZareuS
 *.ZariqaCrypt
 *.Zekwacrypt
 *.Zenis
@@ -2295,6 +2298,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.crypted_marztoneb@tutanota_de
 *.crypted_pony_test_build*
 *.crypted_pony_test_build_xxx_xxx_xxx_xxx_xxx
+*.crypter
 *.cryptes
 *.cryptfile
 *.cryptgh0st
@@ -2548,6 +2552,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fdcv
 *.fdcz
 *.fedasot
+*.fefg
 *.felix
 *.ferosas
 *.fezmm
@@ -2909,6 +2914,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ipygh
 *.iqll
 *.iqy
+*.irfk
 *.irjg
 *.irkf
 *.ironhead
@@ -3050,6 +3056,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kyra
 *.l41
 *.lO8s42
+*.lXXwXXXNQ
 *.lalabitch
 *.lalabitch,
 *.lalo
@@ -3325,6 +3332,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nm8kci
 *.nmc
 *.nnqp
+*.nnuz
 *.no_more_ransom
 *.no_more_ransomware
 *.noblis
@@ -3564,6 +3572,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qewe
 *.qkG
 *.qlkm
+*.qlln
 *.qmak
 *.qnbqw
 *.qnty
@@ -3887,6 +3896,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.toxcrypt
 *.trap
 *.trevinomason1@mail.com.vsunit
+*.trins
 *.triple_m
 *.trix
 *.tro
@@ -4046,6 +4056,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wtdi
 *.wtf
 *.wuciwug
+*.wunl
 *.wvtr0
 *.wxdrJbgSDa
 *.wyvern
@@ -4174,6 +4185,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zoro
 *.zorro
 *.zphs
+*.zpps
 *.zqqw
 *.ztsysjz
 *.zuadr
