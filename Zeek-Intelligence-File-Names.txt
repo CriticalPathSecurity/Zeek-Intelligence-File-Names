@@ -2138,6 +2138,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.burn
 *.bvjznsjlo
 *.bwall
+*.bydes
 *.c0hen
 *.c0v
 *.c300
