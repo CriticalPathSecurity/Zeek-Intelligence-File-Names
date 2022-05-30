@@ -1488,6 +1488,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.StorageCrypter
 *.Storm
 *.Striked
+*.StrongX
 *.Stupid
 *.SunCrypt
 *.SuperB
@@ -2523,6 +2524,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.evillock
 *.evolution
 *.evopro
+*.ewdf
 *.ex_parvis@aol.com.AIR
 *.excuses
 *.executioner
@@ -3930,6 +3932,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.udla
 *.ufwj
 *.uigd
+*.uihj
 *.uk-dealer@sigaint.org
 *.uk6ge
 *.ukr.net*
@@ -4171,6 +4174,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zepto
 *.zeronine
 *.zes
+*.zfdv
 *.zhen
 *.zhen!
 *.zida
