@@ -650,6 +650,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Dusk
 *.Dusk!
 *.DynA-Crypt
+*.EAFE
 *.EAIJTP
 *.ECLR*
 *.EG
@@ -2368,6 +2369,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.decodeme666@tutanota_com
 *.decodeme666tutanota_com
 *.decrypme
+*.decrypt
 *.decrypt2017
 *.decrypter@tutanota.com
 *.decryptgarranty
@@ -3259,6 +3261,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.monro
 *.montana
 *.mool
+*.moonshadow
 *.moqs
 *.mordor
 *.moresa
@@ -3593,6 +3596,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qxycv
 *.r3f5s
 *.r3store
+*.r3tr0
 *.r44s
 *.radman
 *.rag2hdst
