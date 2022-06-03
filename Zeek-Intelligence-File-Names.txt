@@ -3702,6 +3702,9 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rootiunik.*-*-*
 *.rose
 *.rpd
+*.rrbb
+*.rrcc
+*.rryy
 *.rsalive
 *.rsucozxze
 *.rtcrypted
