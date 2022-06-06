@@ -1222,6 +1222,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PARTY
 *.PAUSA
 *.PAY
+*.PAY2DECRYPT
 *.PAYLOADBIN
 *.PAY_IN_MAXIM_24_HOURS_OR_ALL_YOUR_FILES_WILL_BE_PERMANENTLY_DELETED_PLEASE_BE_REZONABLE_you_have_only_1_single_chance_to_make_the_payment
 *.PB
@@ -2088,6 +2089,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bmo
 *.bmps@tutanota.com.major
 *.bmtf
+*.bnrs
 *.bobelectron
 *.bomber
 *.bondy
@@ -2467,6 +2469,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.eddldzor
 *.edgel
 *.eduransom
+*.eefg
+*.eegf
 *.efdc
 *.efji
 *.egfg
@@ -3100,6 +3104,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.limbo
 *.lime
 *.lina
+*.linda
 *.lisp
 *.litar
 *.litra
