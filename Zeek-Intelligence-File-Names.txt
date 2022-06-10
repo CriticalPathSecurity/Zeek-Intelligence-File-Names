@@ -661,6 +661,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.EMAN
 *.EMAN50
 *.EMPTY
+*.EMPg296LCK
 *.ENCR
 *.ENCRYPTED_RSA
 *.ERIS
@@ -1641,6 +1642,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Winnix
 *.WonderCrypter
 *.Work
+*.WsIR
 *.Wulfric
 *.Wx7A6
 *.XBTL
@@ -2026,6 +2028,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bbnm
 *.bboo
 *.bbqb
+*.bbyy
 *.bcBDBbAEDb
 *.bclaw
 *.bdev
@@ -2188,6 +2191,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.chch
 *.chech
 *.checkdiskenced
+*.checkmate
 *.cheetah
 *.chekyshka
 *.chernobyl
@@ -3929,6 +3933,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tuid
 *.tuki17@qq.com
 *.tunca
+*.tusk
 *.twist
 *.tx_locked
 *.tx_locked!
