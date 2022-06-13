@@ -2025,6 +2025,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bbbe
 *.bbbr
 *.bbbw
+*.bbii
 *.bbnm
 *.bboo
 *.bbqb
@@ -3691,6 +3692,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rigj
 *.rip
 *.risk
+*.ritzer
 *.rivd
 *.rjali@protonmail.ch
 *.rjzR8
