@@ -1956,6 +1956,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.android
 *.andymarvin
 *.angelamerkel
+*.anigma
 *.animus
 *.anon
 *.anon000
