@@ -2479,12 +2479,14 @@ $RECYCLE.BIN.{*-*-*-*}
 *.eegf
 *.efdc
 *.efji
+*.efvc
 *.egfg
 *.egmwv
 *.egmwvm
 *.ehiz
 *.ehre
 *.eight
+*.eijy
 *.eject
 *.ekans
 *.eking
@@ -2758,6 +2760,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hive
 *.hj36MM
 *.hjgdl
+*.hkgt
 *.hncdumn
 *.hnumkhotep
 *.hnumkhotep@india.com.hnumkhotep
