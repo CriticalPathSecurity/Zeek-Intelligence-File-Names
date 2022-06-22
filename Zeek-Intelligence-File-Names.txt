@@ -716,6 +716,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ExpBoot!
 *.Extortion Scam
 *.Extractor
+*.FARGO
 *.FASTBOB
 *.FCP
 *.FCT
@@ -2711,6 +2712,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.happydayzz
 *.happyness
 *.happythreechoose
+*.harditem
 *.harma
 *.hasp
 *.haters
