@@ -3342,6 +3342,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.networkmaze
 *.newlock
 *.news
+*.newware
 *.nginxhole
 *.nhHtFWV
 *.nightsky
