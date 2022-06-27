@@ -588,6 +588,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.DEDCryptor
 *.DELTA
 *.DEMON
+*.DENO;
 *.DERZKO
 *.DESYNC
 *.DEUS
@@ -1259,6 +1260,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PUSSY
 *.Paradise
 *.PayDay
+*.PayForKey
 *.PayPalGenerator2019
 *.PaySafeGen
 *.Paymen45
@@ -3122,6 +3124,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.litra!Sample
 *.live
 *.lldc
+*.lloo;
 *.lmas
 *.lock2bits
 *.lock93
