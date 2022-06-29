@@ -1334,6 +1334,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.REBL
 *.REBUS
 *.RECOVERYOURFILES
+*.REDTM…
 *.REKTLocker
 *.RENSENWARE
 *.REV
@@ -1611,6 +1612,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.WAND
 *.WAmarlocked
 *.WCRYT
+*.WFA_RANSOM
 *.WHY
 *.WHY…
 *.WINDOWS
@@ -4486,6 +4488,7 @@ DecryptFile.txt
 Decryptyourdata@qq.com
 DesktopOsiris.*
 DesktopOsiris.htm
+Developing!
 EMAIL_*_recipient.zip
 ENCRYPTED.TXT
 ENTSCHLUSSELN_HINWEISE.html
