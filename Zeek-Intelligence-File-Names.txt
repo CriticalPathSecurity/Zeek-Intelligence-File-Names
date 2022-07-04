@@ -747,6 +747,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.FailedAccess
 *.FancyLeaks
 *.Fappy
+*.FartingGiraffeAttacks
 *.FastWind
 *.FenixLocker
 *.Fenrir
@@ -1339,6 +1340,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.RENSENWARE
 *.REV
 *.REVENGE
+*.REVENLOCK7
 *.REvil
 *.RHMLM
 *.RIDIK
@@ -2003,6 +2005,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.b78vi7v6ri66b
 *.b89b
 *.bRcrypT
+*.baal
 *.babaxed
 *.babaxed!
 *.bablo
@@ -2421,6 +2424,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.djvur
 *.djvus
 *.djvut
+*.dkrf
 *.dlenggrl
 *.dmay
 *.dme
@@ -2492,6 +2496,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ehre
 *.eight
 *.eijy
+*.eiur
 *.eject
 *.ekans
 *.eking
@@ -2651,6 +2656,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.get
 *.ghas
 *.ghost
+*.ghsd
 *.gigahertz
 *.givemenitro
 *.glkm
@@ -3127,6 +3133,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.live
 *.lldc
 *.lloo;
+*.llqq
 *.lmas
 *.lock2bits
 *.lock93
@@ -3186,6 +3193,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.lukitus
 *.lukitus-tiedostopäätettä
 *.lurk
+*.lux
 *.lxhlp
 *.lyli
 *.lyli!
@@ -3340,6 +3348,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nemesis
 *.nemo-hacks.at.sigaint.org
 *.nemty
+*.ner
 *.neras
 *.nermer
 *.nesa
