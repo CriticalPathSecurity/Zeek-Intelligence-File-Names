@@ -4045,6 +4045,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vxLock
 *.vyia
 *.w2tnk
+*.w3qupe
 *.wal
 *.wallet
 *.wannacash
