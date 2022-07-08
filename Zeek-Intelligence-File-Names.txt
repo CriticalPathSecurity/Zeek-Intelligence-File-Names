@@ -2984,6 +2984,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.jhgn
 *.jigsaaw
 *.jimm
+*.jjyy;
 *.jodis
 *.johnborn@cock_li
 *.jojocrypt
