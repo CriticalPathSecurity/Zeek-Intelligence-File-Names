@@ -147,6 +147,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.0day0
 *.0kilobypt
 *.0l0lqq
+*.0mega
 *.0riz0n
 *.0wn3dyou
 *.0x0
@@ -728,6 +729,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.FEROSUS
 *.FFF
 *.FG69
+*.FIASKO
 *.FIXED
 *.FIXT
 *.FJ7QvaR9VUmi
@@ -1561,6 +1563,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Try2Cry
 *.Tsar
 *.TurkStatik
+*.U2K
 *.UAKXC
 *.UCCU
 *.UGMH
@@ -2763,8 +2766,10 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hets
 *.hex911
 *.hfgd
+*.hhew
 *.hhjk
 *.hhqa
+*.hhwq
 *.hilegofprencrp
 *.himr
 *.himynameisransom
