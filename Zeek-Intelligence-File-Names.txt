@@ -805,6 +805,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Gefest3
 *.Gerber
 *.GermanWiper
+*.GetAnAntivirus
 *.GetCrypt
 *.GhostCrypt
 *.GhostHammer
@@ -2062,6 +2063,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bguu
 *.bhacks
 *.bi
+*.bianlian
 *.biden
 *.bigdata
 *.biglock
@@ -2766,6 +2768,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hets
 *.hex911
 *.hfgd
+*.hheo
 *.hhew
 *.hhjk
 *.hhqa
@@ -4192,6 +4195,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.yoAD
 *.yoewy
 *.yoqs
+*.youfileslock
 *.youransom
 *.yourransom
 *.yq75w627
