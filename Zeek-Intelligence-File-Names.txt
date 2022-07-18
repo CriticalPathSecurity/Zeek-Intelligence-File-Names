@@ -2101,6 +2101,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bloked
 *.blower
 *.blue
+*.blueKey
 *.bluez
 *.bmd
 *.bmn63
@@ -2659,6 +2660,10 @@ $RECYCLE.BIN.{*-*-*-*}
 *.gerosan
 *.gesd
 *.get
+*.ggeo
+*.ggew
+*.ggwq
+*.ggyu
 *.ghas
 *.ghost
 *.ghsd
@@ -2708,6 +2713,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.gyga
 *.gzgzqc
 *.gоod
+*.h0lyenc
 *.h3ll
 *.hNcrypt
 *.ha3
@@ -4170,6 +4176,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.xoza
 *.xp10-ransom
 *.xraw
+*.xrom
 *.xrtn
 *.xsmb
 *.xtbl
