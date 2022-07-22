@@ -988,6 +988,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Kozy.Jozy
 *.KratosCrypt
 *.Krider
+*.Kriptor
 *.Kriptovor
 *.KryptoLocker
 *.KsiRu0w2
@@ -3459,6 +3460,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.oops
 *.oor
 *.ooss
+*.ooxa
 *.open_readme.txt.ke3q
 *.openforyou@india.com
 *.oplata@qq_com
