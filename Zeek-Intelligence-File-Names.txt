@@ -162,6 +162,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.1999
 *.1btc
 *.1dec
+*.1more
 *.1txt
 *.1whya
 *.1ywsmbo4
@@ -220,6 +221,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.666
 *.666decrypt666
 *.686l0tek69
+*.69
 *.6FKR8d
 *.6be31
 *.6db8
@@ -1979,6 +1981,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ap19
 *.apis
 *.aqva
+*.araicrypt
 *.aram
 *.arazite
 *.arch
@@ -2780,6 +2783,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hhjk
 *.hhqa
 *.hhwq
+*.hhyu
 *.hilegofprencrp
 *.himr
 *.himynameisransom
@@ -3056,6 +3060,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kirked
 *.kiss
 *.kitty
+*.kizu
 *.kjh
 *.kkia
 *.kkk
