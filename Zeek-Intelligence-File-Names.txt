@@ -1164,6 +1164,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.NMCRYPT
 *.NMoreira
 *.NOBAD
+*.NOKOYAWA
 *.NOLOST
 *.NOOB
 *.NOT
@@ -1256,6 +1257,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PLUT
 *.PO1HG
 *.POHU
+*.POLINA
 *.POSHKODER
 *.PPDDDP
 *.PPHL
@@ -1454,6 +1456,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.SadComputer
 *.Sadogo
 *.SaherBlueEagleRansomware
+*.Sakura
 *.Sal13
 *.Salsa
 *.SamSam
@@ -2490,6 +2493,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ebay
 *.ecc
 *.eclr
+*.ecrp
 *.ecure
 *.eddldzor
 *.edgel
@@ -3254,6 +3258,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.masked
 *.masodas
 *.masok
+*.masscan
 *.master
 *.matamoe
 *.maxicrypt
@@ -4062,8 +4067,11 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vulston
 *.vusad
 *.vvao
+*.vveo
+*.vvew
 *.vvoa
 *.vvv
+*.vvwq
 *.vxLock
 *.vyia
 *.w2tnk
