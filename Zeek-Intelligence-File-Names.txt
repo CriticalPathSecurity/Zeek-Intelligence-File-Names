@@ -2054,6 +2054,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bclaw
 *.bdev
 *.beaf
+*.beamed
 *.beef
 *.beep
 *.beer
