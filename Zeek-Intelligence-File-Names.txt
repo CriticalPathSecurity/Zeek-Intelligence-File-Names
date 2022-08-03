@@ -1273,6 +1273,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.PayPalGenerator2019
 *.PaySafeGen
 *.Paymen45
+*.Payt
 *.PcS
 *.Pendor
 *.Persephone666
@@ -1286,6 +1287,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Pickles
 *.Pig4444
 *.Plague17
+*.Po
 *.PoAr2w
 *.PoisonFang
 *.Poliex
@@ -1389,6 +1391,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ReadManual.*
 *.ReadTheInstructions
 *.Read_Me.Txt
+*.Readnet7
 *.Reads
 *.RedBoot
 *.RedEye
@@ -2824,6 +2827,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.hush
 *.hydracrypt_ID*
 *.hydracrypt_ID_*
+*.hydrox
 *.iFire
 *.iGotYou
 *.iRansom
@@ -3297,6 +3301,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mine
 *.missing
 *.mjlx
+*.mkp
 *.mljx
 *.mmnn
 *.mmob
