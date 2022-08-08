@@ -358,6 +358,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.BG85
 *.BIG1
 *.BIG4+
+*.BITCOINPAYMENT
 *.BK
 *.BKRansomware
 *.BMCODE
@@ -2198,6 +2199,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cccmn
 *.ccps
 *.ccryptor
+*.ccyu
 *.cdrpt
 *.cekisan
 *.cerber
@@ -4126,6 +4128,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.woodrat
 *.wooly
 *.worcservice@protonmail.ch
+*.world2022decoding
 *.wowreadfordecry
 *.wowreadfordecryp
 *.wowwhereismyfiles
