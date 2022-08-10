@@ -614,6 +614,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.DataKeeper
 *.Datalock
 *.DavesSmith
+*.Daz
 *.Dcrtr
 *.DeLpHiMoRiX!@@@@_@@_@_2018_@@@_@_@_@@@
 *.DeLpHiMoRiX*
@@ -1217,6 +1218,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.OXR
 *.ObcKIn
 *.OhNo!
+*.Oiltraffic
 *.OnyxLocker
 *.OpJerusalem
 *.OpenToYou
@@ -2197,9 +2199,11 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cbu1
 *.ccc
 *.cccmn
+*.cceo
 *.ccps
 *.ccryptor
 *.ccyu
+*.ccza
 *.cdrpt
 *.cekisan
 *.cerber
@@ -2267,6 +2271,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.coharos
 *.coin
 *.coka
+*.colambia
 *.colecyrus@mail.com.b007
 *.com2
 *.combo
@@ -3698,6 +3703,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.reL
 *.reaGAN
 *.read_to_txt_file.yyto
+*.readlockfiles
 *.readme
 *.readme_txt
 *.realfs0ciety*
@@ -3752,6 +3758,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.rivd
 *.rjali@protonmail.ch
 *.rjzR8
+*.rkhwhrogq
 *.rlhwasted
 *.rlhwasted_info
 *.rnsmwr
