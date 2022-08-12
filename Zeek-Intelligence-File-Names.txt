@@ -2613,6 +2613,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.file0locked
 *.filegofprencrp
 *.fileiscryptedhard
+*.filerec
 *.filesfucked
 *.filock
 *.fire
@@ -4099,6 +4100,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wannacryv2
 *.warn_wallet
 *.wasted
+*.watch
 *.wav_list
 *.wbxd
 *.wcg
