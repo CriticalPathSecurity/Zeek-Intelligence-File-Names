@@ -3656,6 +3656,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qnty
 *.qpss
 *.qq_com*
+*.qqmt
 *.qqqe
 *.qqqr
 *.qqqw
