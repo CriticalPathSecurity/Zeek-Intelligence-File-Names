@@ -309,6 +309,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Amnesia2
 *.Anatova
 *.AngleWare
+*.Angry
 *.AngryDuck
 *.Angus
 *.Annabelle 2.1
@@ -2328,6 +2329,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.crypt
 *.crypt1
 *.crypt12
+*.crypt14
 *.crypt2019
 *.crypt38
 *.crypt888
@@ -3656,6 +3658,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qnty
 *.qpss
 *.qq_com*
+*.qqlc
+*.qqlo
 *.qqmt
 *.qqqe
 *.qqqr
@@ -3834,6 +3838,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.serpom
 *.session
 *.setimichas1971@protonmail.com.b4wq
+*.sex
 *.sext
 *.sexy
 *.sfile2
