@@ -3664,6 +3664,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qqqe
 *.qqqr
 *.qqqw
+*.qqri
 *.qscx
 *.quantum
 *.qwerty
