@@ -969,6 +969,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.KLZUB
 *.KOK08
 *.KOK8
+*.KOPYTZEMPEREEBET
 *.KOXIC*
 *.KRAB
 *.KRONOS
@@ -3658,6 +3659,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qnty
 *.qpss
 *.qq_com*
+*.qqjj
+*.qqkk
 *.qqlc
 *.qqlo
 *.qqmt
@@ -4296,6 +4299,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zuzya
 *.zwer
 *.zxcv
+*.zxcvb
 *.zycrypt
 *.zyklon
 *.zypto*
