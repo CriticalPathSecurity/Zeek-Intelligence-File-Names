@@ -606,6 +606,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.DMR
 *.DMR64
 *.DOCM!Sample
+*.DONKEYHOT
 *.DQXOO
 *.DREAM
 *.DS335
@@ -3664,6 +3665,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.qqlc
 *.qqlo
 *.qqmt
+*.qqpp
 *.qqqe
 *.qqqr
 *.qqqw
