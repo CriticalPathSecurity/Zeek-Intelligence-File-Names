@@ -894,6 +894,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Hydra
 *.HydraCrypt
 *.I'WANT MONEY
+*.ICQ@PIZZASUCKER
 *.ID-7ES642406.CRY
 *.IEncrypt
 *.IFN643
