@@ -602,6 +602,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.DG
 *.DHDR4
 *.DIABLO6
+*.DIAMOND
 *.DMA Locker*
 *.DMR
 *.DMR64
@@ -849,6 +850,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.HGSH
 *.HHFEHIOL
 *.HILDA
+*.HIP1
 *.HJAWF
 *.HKCrypt
 *.HORSELIKER
@@ -1081,6 +1083,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MDEN
 *.MDRL
 *.MEFILIN
+*.MEOW
 *.MERIN
 *.MERRY
 *.MH24
@@ -1729,6 +1732,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ZaLtOn
 *.ZareuS
 *.ZariqaCrypt
+*.ZeNyA
 *.Zekwacrypt
 *.Zenis
 *.ZeroFucks
@@ -3066,6 +3070,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kes$
 *.keybtc@inbox
 *.keybtc@inbox_com
+*.keygroup777
 *.kezoz
 *.kgpvwnr
 *.khonsari
