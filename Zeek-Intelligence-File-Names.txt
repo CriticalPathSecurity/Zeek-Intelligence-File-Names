@@ -436,6 +436,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.CGAIE
 *.CHAK
 *.CHE808
+*.CHEAPLAMINATE
 *.CHIP
 *.CHRISTMAS
 *.CIFGKSAFFSFYGHD
@@ -765,6 +766,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.FileSlack
 *.FilesLocker
 *.FindZip
+*.FirstKill
 *.Flatcher3
 *.Flux
 *.Fonix
@@ -2545,6 +2547,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.enc_robbinhood
 *.encedRSA
 *.encencenc
+*.encfiles
 *.encmywork
 *.encoded01
 *.encoded_PL
@@ -3849,6 +3852,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.sepsys
 *.serpent
 *.serpom
+*.servidoracessobanco
 *.session
 *.setimichas1971@protonmail.com.b4wq
 *.sex
