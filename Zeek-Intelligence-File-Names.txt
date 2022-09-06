@@ -3493,11 +3493,14 @@ $RECYCLE.BIN.{*-*-*-*}
 *.only-we_can-help_you
 *.onx
 *.onyon
+*.oodt
 *.ooii
 *.oonn
 *.oops
+*.oopu
 *.oor
 *.ooss
+*.oovb
 *.ooxa
 *.open_readme.txt.ke3q
 *.openforyou@india.com
