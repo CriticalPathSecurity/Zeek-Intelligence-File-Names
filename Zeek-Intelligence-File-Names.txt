@@ -2104,6 +2104,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bk666
 *.bkc
 *.bkp
+*.bl00dy
 *.black007
 *.blackruby
 *.blank
@@ -3325,10 +3326,13 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mjlx
 *.mkp
 *.mljx
+*.mmdt
 *.mmnn
 *.mmob
 *.mmpa
+*.mmpu
 *.mmuz
+*.mmvb
 *.mnbzr
 *.mo2
 *.mo7n
@@ -3602,6 +3606,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.plam
 *.plastic
 *.plauge17
+*.play
 *.pleaseCallQQ
 *.pluto
 *.pnr
