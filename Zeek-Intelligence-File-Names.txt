@@ -1092,6 +1092,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MIKOYAN
 *.MILIHPEN
 *.MILIHPENN
+*.MLF
 *.MMM
 *.MMTA
 *.MMTeam
@@ -2044,6 +2045,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.badutclowns
 *.bagi
 *.bagli
+*.ballacks
 *.bam!
 *.bananaCrypt
 *.bandana
@@ -2480,6 +2482,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.doples
 *.dotmap
 *.doubleoffset
+*.doyuk
 *.doyuk2
 *.dqb
 *.dqws
