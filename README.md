@@ -10,4 +10,4 @@ This is a public feed based on Public Threat Feeds and CRITICAL PATH SECURITY ga
 This feed will be updated as often as possible.
 
 Updated on:
-Thu Sep 15 23:11:38 UTC 2022
+Fri Sep 16 00:11:42 UTC 2022
