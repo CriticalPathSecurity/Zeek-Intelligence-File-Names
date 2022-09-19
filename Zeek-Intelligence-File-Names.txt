@@ -952,6 +952,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Jigsaw
 *.JobCrypter
 *.JoeGo
+*.Joker
 *.JosepCrypt
 *.JuicyLemon
 *.Jumper
@@ -1022,6 +1023,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.LMAOxUS
 *.LOCK75
 *.LOCKED.txt
+*.LOCKEDFILECR
 *.LOCKED_BY_pablukl0cker
 *.LOCKED_PAY
 *.LOCKOUT
@@ -1931,7 +1933,11 @@ $RECYCLE.BIN.{*-*-*-*}
 *.aZaZeL
 *.aa1
 *.aaa
+*.aabn
 *.aajf
+*.aamv
+*.aawt
+*.aayu
 *.abarcy
 *.abc
 *.abcd
@@ -2492,6 +2498,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.dsec
 *.dst
 *.dubai317898@gmailcom
+*.duck
 *.ducky
 *.ducueyuav
 *.duhust
@@ -3325,6 +3332,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.mikop
 *.mind
 *.mine
+*.minex
 *.missing
 *.mjlx
 *.mkp
