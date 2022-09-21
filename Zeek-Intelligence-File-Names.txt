@@ -217,6 +217,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.5ss5c
 *.619-300-6500
 *.61yhi
+*.62IX
 *.63vc4
 *.666
 *.666decrypt666
@@ -400,6 +401,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Bitshifter
 *.Black Feather
 *.Black Shades
+*.BlackBit
 *.BlackCocaine*
 *.BlackHat
 *.BlackHeart
@@ -579,6 +581,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.Cukiesi
 *.CyberSCCP
 *.CyberSoldiersST
+*.Cyber_Puffin
 *.Cyclone
 *.Czlock
 *.D00mEd
@@ -2602,6 +2605,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.executioner
 *.exotic
 *.exploit
+*.exploit6
 *.explorer
 *.extension.srpx
 *.exx
@@ -3624,6 +3628,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.poison
 *.poker
 *.pola
+*.polis
 *.polizia
 *.pooe
 *.poof
