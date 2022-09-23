@@ -1227,6 +1227,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.OOFNIK
 *.OOOKJYHCTVDF
 *.OQn1B
+*.ORCA.victims_ID
 *.ORKF
 *.OTR
 *.OVO
@@ -3495,6 +3496,9 @@ $RECYCLE.BIN.{*-*-*-*}
 *.odcodc
 *.odin
 *.odveta
+*.oflg
+*.ofoq
+*.ofww
 *.ogdo
 *.ogre
 *.okean*
