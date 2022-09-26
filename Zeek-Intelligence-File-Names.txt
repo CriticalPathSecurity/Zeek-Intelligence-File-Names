@@ -1669,6 +1669,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.WannaScream
 *.WannaSmile
 *.WannaSpam
+*.Wanqu
 *.Wesker
 *.WhatAFuck
 *.Where_my_files.txt
