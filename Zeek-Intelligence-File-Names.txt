@@ -1101,6 +1101,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MMM
 *.MMTA
 *.MMTeam
+*.MMXXII
 *.MNS
 *.MOIA
 *.MOLE
@@ -2033,6 +2034,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.avos
 *.avos2
 *.avyu
+*.awwt
 *.axx
 *.axxes
 *.azero
@@ -3427,6 +3429,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.neras
 *.nermer
 *.nesa
+*.netlock
 *.netn6
 *.networkmaze
 *.newlock
@@ -3503,6 +3506,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ogdo
 *.ogre
 *.okean*
+*.okhacked
 *.okokokokok
 *.olduw
 *.oled
@@ -4075,6 +4079,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.un1que
 *.unavailable
 *.unbrecrypt_ID_*
+*.unique
 *.uniwinni.crypt
 *.unlock
 *.unwa
@@ -4179,6 +4184,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.wintenzz
 *.wiot
 *.wixawm
+*.wizard
 *.wlu
 *.wmfxdqz
 *.wncry
