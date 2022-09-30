@@ -2421,6 +2421,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.dark
 *.darkness
 *.darus
+*.databankasi
 *.datun
 *.david
 *.davilarita@mail.com.yyy0
@@ -3832,6 +3833,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.root
 *.rootiunik.*-*-*
 *.rose
+*.royal
 *.rpd
 *.rrbb
 *.rrcc
