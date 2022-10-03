@@ -1928,6 +1928,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *._NEMTY_BTKid9H_
 *.__NIST_K571__
 *.__dilmaV1
+*._d0nut
 *._enc
 *._raphaeldupon@aol.com_.btc
 *._ryp
@@ -1962,9 +1963,11 @@ $RECYCLE.BIN.{*-*-*-*}
 *.adam
 *.adapaterson@mail.com.mkmk
 *.adk
+*.adlg
 *.adobe
 *.adobee
 *.adv
+*.adww
 *.aeroware
 *.aes!
 *.aes.JANELLE
@@ -2405,6 +2408,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cyn
 *.cypher
 *.czvxce
+*.d0nut
 *.d3ad
 *.d3g1d5
 *.d4nk
