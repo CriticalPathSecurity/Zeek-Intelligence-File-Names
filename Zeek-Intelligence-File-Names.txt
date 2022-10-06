@@ -2147,6 +2147,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.blue
 *.blueKey
 *.bluez
+*.bmcrypt
 *.bmd
 *.bmn63
 *.bmo
@@ -2185,6 +2186,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.browec
 *.brrr
 *.brusaf
+*.brutusCrypt
 *.btHTIb
 *.btc
 *.btc -help-you
@@ -3552,6 +3554,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.osnoed
 *.otherinformation
 *.owned
+*.p.redkrypt
 *.p3d374
 *.p3rt4m1n4777
 *.p5tkjw
