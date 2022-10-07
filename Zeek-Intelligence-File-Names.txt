@@ -4040,11 +4040,13 @@ $RECYCLE.BIN.{*-*-*-*}
 *.todar
 *.todarius
 *.toec
+*.tohj
 *.tohnichi
 *.tokog
 *.tools_ensikology
 *.topi
 *.tortoise
+*.towz
 *.toxcrypt
 *.trap
 *.trevinomason1@mail.com.vsunit
