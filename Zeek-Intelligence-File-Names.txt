@@ -2483,6 +2483,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.djvur
 *.djvus
 *.djvut
+*.dkey
 *.dkrf
 *.dlenggrl
 *.dmay
@@ -3644,6 +3645,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.pleaseCallQQ
 *.pluto
 *.pnr
+*.pohj
 *.poison
 *.poker
 *.pola
@@ -3663,6 +3665,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.powerfuldecrypt
 *.powerfulldecrypt
 *.powned
+*.powz
 *.poyvonm
 *.ppam
 *.pphg
