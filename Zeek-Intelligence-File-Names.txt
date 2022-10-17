@@ -681,6 +681,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ERIS!
 *.ERROR
 *.ESCAL*
+*.ESCANOR
 *.EV
 *.EXTE
 *.EZDZ
@@ -2202,6 +2203,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bugs
 *.builder
 *.bukyak
+*.bulwark7
 *.bumcoder
 *.bunny
 *.burn
@@ -2405,6 +2407,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.cxk
 *.cxk_nmsl
 *.cxkdata
+*.cyber
 *.cyberdrill
 *.cymcrypt
 *.cyn
@@ -4038,6 +4041,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tirp
 *.tisc
 *.titancrypt
+*.tius
 *.tmp.exe
 *.to.dernesatiko@mail.com.crypted
 *.todar
@@ -4053,6 +4057,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.toxcrypt
 *.trap
 *.trevinomason1@mail.com.vsunit
+*.trg
 *.trins
 *.triple_m
 *.trix
@@ -4071,6 +4076,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tuid
 *.tuki17@qq.com
 *.tunca
+*.tury
 *.tusk
 *.twist
 *.tx_locked
