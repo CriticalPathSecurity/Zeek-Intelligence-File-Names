@@ -2631,6 +2631,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.eyrv
 *.ezz
 *.ezzyl
+*.f**kcrypt
 *.f*cked
 *.fX
 *.fair
@@ -3115,6 +3116,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.kilit
 *.kill
 *.killedXXX
+*.killnet
 *.kimchenyn
 *.kimcilware
 *.kimcilware.locked
@@ -3497,8 +3499,10 @@ $RECYCLE.BIN.{*-*-*-*}
 *.nuclear
 *.nuclear55
 *.nuhb
+*.nuis
 *.nuke55
 *.nuksus
+*.nury
 *.nusar
 *.nusm
 *.nvetud
