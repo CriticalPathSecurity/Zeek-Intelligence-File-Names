@@ -913,6 +913,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.INDRIK
 *.INFECTION
 *.INFOWAIT
+*.INT
 *.IQ_IQ
 *.ITLOCK
 *.ITTZN
@@ -1055,6 +1056,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.LockBox
 *.LockCrypt
 *.LockDown
+*.LockFiles
 *.LockTaiwan
 *.Locked-In
 *.Locked-by-Mafia
@@ -2082,6 +2084,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.bbbe
 *.bbbr
 *.bbbw
+*.bbd2.\[victims_ID\]
 *.bbii
 *.bbnm
 *.bboo
