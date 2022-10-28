@@ -3675,11 +3675,13 @@ $RECYCLE.BIN.{*-*-*-*}
 *.porno.pornoransom
 *.pornoransom
 *.potato
+*.powd
 *.powerfuldecrypt
 *.powerfulldecrypt
 *.powned
 *.powz
 *.poyvonm
+*.pozq
 *.ppam
 *.pphg
 *.pqgs
@@ -4161,6 +4163,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.vindows
 *.vjiszy1lo
 *.vlff
+*.vn2.1.\[victims_ID\]
 *.volcano
 *.volvo33_36_37_39__44
 *.voom
