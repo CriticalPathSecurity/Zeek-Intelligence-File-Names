@@ -2047,6 +2047,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.axxes
 *.azero
 *.azor
+*.azov
 *.b00m
 *.b0ff
 *.b29
