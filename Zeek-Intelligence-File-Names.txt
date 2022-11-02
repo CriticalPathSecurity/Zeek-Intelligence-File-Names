@@ -2179,8 +2179,10 @@ $RECYCLE.BIN.{*-*-*-*}
 *.boston
 *.bot
 *.bot!
+*.bowd
 *.bozon
 *.bozon3
+*.bozq
 *.braincrypt
 *.breaking bad
 *.breaking_bad
