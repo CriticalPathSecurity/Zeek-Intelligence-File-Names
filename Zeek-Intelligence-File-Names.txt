@@ -530,6 +530,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.CryLocker
 *.CryPy
 *.CrySiS
+*.CrySpheRe
 *.Cryakl
 *.CrypMic
 *.Crypren
@@ -2054,6 +2055,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.b5c6
 *.b78vi7v6ri66b
 *.b89b
+*.bDAT
 *.bRcrypT
 *.baal
 *.babaxed
@@ -3900,6 +3902,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.saved
 *.saverswasted
 *.saylessrsnm
+*.sbkyedekal
 *.sbpg
 *.scarab
 *.scl
@@ -4046,6 +4049,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tedcrypt
 *.teddy
 *.telebak
+*.terror_ramp3
 *.tfude
 *.tfudet
 *.tgmn
@@ -4350,6 +4354,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.zaplat.za*
 *.zaps
 *.zaqi
+*.zate
+*.zatp
 *.zatrov
 *.zax
 *.zazas
