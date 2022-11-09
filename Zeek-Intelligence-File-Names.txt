@@ -1783,6 +1783,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.\[Bas_ket@aol.com\].java
 *.\[Bomani@Email.Com\]
 *.\[Brazzers@aolonline.top\].arena
+*.\[Chily@Dr.Com\]
 *.\[Delta\]*
 *.\[DonovanTudor@aol.com\].bat
 *.\[Enigma1crypt@aol.com\].ETH
@@ -2362,6 +2363,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.crjocker
 *.crjoker
 *.croc
+*.crow
 *.crptd
 *.crptrgr
 *.cry
