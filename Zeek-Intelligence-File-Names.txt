@@ -1749,6 +1749,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.ZareuS
 *.ZariqaCrypt
 *.ZeNyA
+*.ZeRy
 *.Zekwacrypt
 *.Zenis
 *.ZeroFucks
@@ -2655,6 +2656,8 @@ $RECYCLE.BIN.{*-*-*-*}
 *.fastrecovery@airmail.cc
 *.fastsupport@xmpp.jp
 *.fat32
+*.fate
+*.fatp
 *.fbuvkngy
 *.fcfceee
 *.fdcv
