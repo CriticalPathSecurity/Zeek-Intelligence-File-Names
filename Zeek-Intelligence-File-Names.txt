@@ -1453,6 +1453,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.SEPSIS
 *.SERP
 *.SEVENDAYS
+*.SEX3
 *.SF
 *.SFile
 *.SG1995
@@ -3033,6 +3034,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.info@mymail9\[dot\]com
 *.info@sharebyy\[dot\]com
 *.infovip@airmail.cc
+*.inlock
 *.insane
 *.insta
 *.invaded
@@ -3547,6 +3549,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.omfl
 *.omnisphere
 *.one-we_can-help_you
+*.onelock
 *.oneway
 *.oni
 *.online24files@airmail.cc
@@ -4337,6 +4340,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.yber
 *.ybtn
 *.ygkz
+*.yguekcbe
 *.ygvb
 *.yjqs
 *.ykcol
