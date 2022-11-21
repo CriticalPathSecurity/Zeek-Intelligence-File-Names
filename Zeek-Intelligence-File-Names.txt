@@ -1015,6 +1015,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.L1LL
 *.L33TAF
 *.LAMBDA.LOCKED
+*.LATCHNETWORK3
 *.LAZPARKING-*
 *.LCKD
 *.LDPR
@@ -4050,6 +4051,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.tater
 *.tax
 *.tcprx
+*.tcvp
 *.tcwwasted
 *.team
 *.teamV
