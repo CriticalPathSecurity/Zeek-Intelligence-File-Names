@@ -1127,6 +1127,7 @@ $RECYCLE.BIN.{*-*-*-*}
 *.MZR
 *.MaMo434376
 *.MadBit
+*.Mafer
 *.MafiaWare
 *.Magniber
 *.MailRU
